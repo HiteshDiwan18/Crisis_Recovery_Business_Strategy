@@ -15,6 +15,7 @@ GROUP BY period;
 
 Used SQL CTEs to compare pre-crisis vs crisis periods, quantifying a 69% decline in orders, indicating a severe business disruption.
 
+	
 Which top 5 city groups experienced the highest percentage decline in orders
 during the crisis period compared to the pre-crisis period?
 
