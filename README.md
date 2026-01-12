@@ -47,26 +47,6 @@ Estimated revenue loss using order subtotals, discounts, and delivery fees.
 Loyalty & Customer Retention Analysis
 Determined how many loyal customers stopped ordering and evaluated their satisfaction levels.
 
-📁 Repository Structure
-Crisis_Recovery_Business_Strategy/
-│
-├── data/
-│   ├── sales_data.xlsx
-│   ├── delivery_performance.csv
-│   └── customer_reviews.csv
-│
-├── sql/
-│   └── crisis_analysis_queries.sql
-│
-├── powerbi/
-│   └── Crisis_Recovery_Dashboard.pbix
-│
-├── screenshots/
-│   ├── dashboard_overview.png
-│   ├── city_decline_chart.png
-│   └── revenue_comparison.png
-│
-└── README.md
 
 📈 Tools & Technologies
 Power BI Desktop	Dashboard building & visualization
